@@ -8,7 +8,6 @@ class Application
     else
       resp.wite "Good Afternoon!"
     end
-    
-  end
 
+  end
 end
